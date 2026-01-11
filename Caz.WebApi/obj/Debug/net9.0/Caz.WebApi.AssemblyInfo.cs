@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Caz.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dbfe2bf70a0de913112aca8718c18ec8ce86aa9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Caz.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Caz.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
